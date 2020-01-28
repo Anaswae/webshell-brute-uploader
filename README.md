@@ -12,5 +12,7 @@ python3 wsu.py https://upload4.easyupload.io/action.php "type=upload&expiration=
 
 Required python lib: requests, sys, os, re,urllib
 
+Configuration : Edit at line 6
+
 Copyright (c) 2020 Jogjakarta Hacker Link
 </pre>
